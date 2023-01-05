@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+
+<html>
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <title>iPhone </title>
   <link rel='stylesheet' type='text/css' media='screen' href='Script/bootstrap.min.css'>
   <script src='Script/jquery-3.2.1.slim.min.js'></script>
